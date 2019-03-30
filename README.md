@@ -1,7 +1,7 @@
 # Introduction
 
-I always forget to message my mom and she says she's worried about me. I set up a script that sends a randomized message to her every ~2 days at ~3PM on Facebook Messenger.
-Preferrablly, install this script on your personal computer so that it only runs if you are actually alive. Just imagine what a pain that would be if not...
+This is an automated script that sends a randomized message to my mom every ~2 days at ~3PM on Facebook Messenger.
+Preferrablly, install it on your personal computer so that it only runs if you are actually alive. Just imagine what a pain that would be if not...
 
 ## Setup
 1. Install node and npm through your preferred [install method](https://nodejs.org/en/download/package-manager/)
