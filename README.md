@@ -16,5 +16,5 @@ Preferrablly, install this script on your personal computer so that it only runs
 
 
 ## Credit to the following projects
-https://github.com/mjkaufer/Messer
-https://www.nimrod-messenger.io
+[Messer by mjkaufer](https://github.com/mjkaufer/Messer)
+[Nimrod](https://www.nimrod-messenger.io)
